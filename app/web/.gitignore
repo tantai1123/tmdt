@@ -1,0 +1,16 @@
+.initialized
+.restored
+/wp-content/themes
+/wp-content/plugins/.buildcomplete
+/wp-content/plugins/hello.php
+/wp-content/plugins/akismet
+/wp-content/plugins/all-in-one-seo-pack
+/wp-content/plugins/all-in-one-wp-migration
+/wp-content/plugins/amp
+/wp-content/plugins/google-analytics-for-wordpress
+/wp-content/plugins/jetpack
+/wp-content/plugins/licenses
+/wp-content/plugins/simple-tags
+/wp-content/plugins/w3-total-cache
+/wp-content/plugins/wp-cloud-mgmt-console
+/wp-content/plugins/wp-mail-smtp

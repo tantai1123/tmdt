@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47a7f750-986f-46c9-aef4-4fefc2b965b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/animated-popup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_05.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/animation_settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/admin/animation_settings.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/admin/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/custom_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/admin/custom_styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/custom_template.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/admin/custom_template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/images/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/images/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-admin/sgt-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/admin/sgt-animated-popup-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-general/animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/general/animate.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-general/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/general/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-general/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/general/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-general/lazyload.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/general/lazyload.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css-general/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/general/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/custom_basic_settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/custom_basic_settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/custom_template.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/custom_template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/default_value.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/default_value.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/lazysizes.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/popup/Utils.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/popup/Utils.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/popup/button_shortcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/popup/button_shortcode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/popup/popup_setup.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/popup/popup_setup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/post_type.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/post_type.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_01.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_admin/christmas_01.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/admin/christmas_01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_admin/christmas_02.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/admin/christmas_02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_admin/christmas_03.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/admin/christmas_03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_admin/christmas_04.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/admin/christmas_04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_admin/christmas_05.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/admin/christmas_05.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_admin/christmas_06.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/admin/christmas_06.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_admin/christmas_07.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/admin/christmas_07.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_admin/christmas_08.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/admin/christmas_08.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_general/christmas_01.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_general/christmas_02.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_general/christmas_03.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_general/christmas_04.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_general/christmas_05.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_general/christmas_06.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_06.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_general/christmas_07.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_07.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates_general/christmas_08.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/includes/templates/general/christmas_08.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/uninstall.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/uninstall.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$USER_HOME$/wordpress5.5.1" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jSEKpkuDZiNhuLQS724bc54Ivs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/vendor" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/js/vendor" />
+      <recent name="$PROJECT_DIR$/app/web/wp-content/plugins/animated-popup/assets/css/vendor/jquery-ui" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47a7f750-986f-46c9-aef4-4fefc2b965b1" name="Default Changelist" comment="" />
+      <created>1603789031961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603789031961</updated>
+      <workItem from="1603789036090" duration="2128000" />
+      <workItem from="1603944168068" duration="949000" />
+      <workItem from="1603945483702" duration="30000" />
+      <workItem from="1603945945833" duration="5717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="111" key="#PHP" timestamp="1603946606501">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="407" y="111" key="#PHP/54.23.1386.877@54.23.1386.877" timestamp="1603946606501" />
+    <state x="154" y="123" width="1186" height="677" key="DiffContextDialog" timestamp="1603951959686">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="154" y="123" width="1186" height="677" key="DiffContextDialog/54.23.1386.877@54.23.1386.877" timestamp="1603951959686" />
+    <state x="228" y="194" key="NewPhpClassDialog" timestamp="1603956937308">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="228" y="194" key="NewPhpClassDialog/54.23.1386.877@54.23.1386.877" timestamp="1603956937308" />
+    <state x="549" y="392" key="NewPhpFileDialog" timestamp="1603956598862">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="549" y="392" key="NewPhpFileDialog/54.23.1386.877@54.23.1386.877" timestamp="1603956598862" />
+    <state x="488" y="189" key="RollbackChangesDialog" timestamp="1603954297055">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="488" y="189" key="RollbackChangesDialog/54.23.1386.877@54.23.1386.877" timestamp="1603954297055" />
+    <state x="248" y="100" key="SettingsEditor" timestamp="1603954672779">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="248" y="100" key="SettingsEditor/54.23.1386.877@54.23.1386.877" timestamp="1603954672779" />
+    <state x="341" y="166" key="VCS.ChangeListViewerDialog" timestamp="1603951792002">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="341" y="166" key="VCS.ChangeListViewerDialog/54.23.1386.877@54.23.1386.877" timestamp="1603951792002" />
+    <state x="154" y="123" width="1186" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603951959687">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="154" y="123" width="1186" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/54.23.1386.877@54.23.1386.877" timestamp="1603951959687" />
+    <state x="439" y="216" width="643" height="490" key="find.popup" timestamp="1603951874272">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="439" y="216" width="643" height="490" key="find.popup/54.23.1386.877@54.23.1386.877" timestamp="1603951874272" />
+    <state x="412" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1603951745149">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="412" y="112" width="670" height="676" key="search.everywhere.popup/54.23.1386.877@54.23.1386.877" timestamp="1603951745149" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$USER_HOME$/wordpress5.5.1</wordpressPath>
+  </component>
+</project>

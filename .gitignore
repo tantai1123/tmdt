@@ -1,0 +1,6 @@
+app/db
+data_collection/venv
+__pycache__
+.DS_Store
+*.pot~
+*.po~
